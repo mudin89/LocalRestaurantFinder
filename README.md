@@ -1,6 +1,8 @@
 # LocalRestaurantFinder
 
 This project aims to demo location based restaurant finder.
+The API for the restaurant is provided by using Yelp Fusion public API.
+
 
 ## Prerequisites
 
@@ -24,12 +26,16 @@ You can start by cloning this repository and using [react-native-rename](https:/
 
 After that you should proceed as with any javascript project:
 
-- Go to your project's root folder and run `npm install`.
-- Run `npm run ios` or `npm run android` to start your application!
+- Go to your project's root folder and run `npm install expo-cli`.
+- Run `npx expo start` to start your application! 
+Then press a to run to android emulator, press i to run to ios emulator via expo.
 
 (Using yarn: `yarn ios` or `yarn android`)
 
 Note: Please read the Setup environments section that is below in this file for more information about the execution scripts.
+
+Please replace the Yelp API key with the provided api.
+
 
 
 App ScreenShot
