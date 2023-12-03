@@ -32,6 +32,14 @@ After that you should proceed as with any javascript project:
 Note: Please read the Setup environments section that is below in this file for more information about the execution scripts.
 
 
+App ScreenShot
+
+
+<img width="854" alt="Screenshot 2023-12-03 at 8 06 29 PM" src="https://github.com/mudin89/LocalRestaurantFinder/assets/11038360/0bc975d8-3434-45f7-8639-ec1c19015ff3">
+
+
+<img width="826" alt="Screenshot 2023-12-03 at 8 06 54 PM" src="https://github.com/mudin89/LocalRestaurantFinder/assets/11038360/cd639edb-61cb-46b2-9623-7111c50d24e1">
+
 
 
 
